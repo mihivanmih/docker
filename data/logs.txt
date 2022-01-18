@@ -1,2 +1,4 @@
-log 1
-log 2
+ddd
+777
+fff
+fddf
